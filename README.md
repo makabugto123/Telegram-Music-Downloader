@@ -1,6 +1,10 @@
 # Telegram-Music-Downloader
 Simple Music Downloader
 
-cd Telegram-Music-Downloader\n
-npm install telegraf axios fs-extra\n
+cd Telegram-Music-Downloader
+
+
+npm install telegraf axios fs-extra
+
+
 node bot.js
